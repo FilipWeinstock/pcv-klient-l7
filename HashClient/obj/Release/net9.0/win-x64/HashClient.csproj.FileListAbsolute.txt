@@ -1,0 +1,14 @@
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\HashClient.exe
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\HashClient.deps.json
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\HashClient.runtimeconfig.json
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\HashClient.dll
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\HashClient.pdb
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\HashClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\HashClient.AssemblyInfoInputs.cache
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\HashClient.AssemblyInfo.cs
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\HashClient.csproj.CoreCompileInputs.cache
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\HashClient.dll
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\refint\HashClient.dll
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\HashClient.pdb
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\HashClient.genruntimeconfig.cache
+C:\Users\Filip\HashClient\obj\Release\net9.0\win-x64\ref\HashClient.dll

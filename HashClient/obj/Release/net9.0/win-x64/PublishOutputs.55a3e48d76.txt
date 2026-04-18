@@ -1,0 +1,5 @@
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\publish\HashClient.exe
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\publish\HashClient.dll
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\publish\HashClient.deps.json
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\publish\HashClient.runtimeconfig.json
+C:\Users\Filip\HashClient\bin\Release\net9.0\win-x64\publish\HashClient.pdb
